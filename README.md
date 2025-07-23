@@ -211,9 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contact
 
-- **Developer**: Shruti Gupta
-- **Email**: 13579shrutigupta@gmail.com
-- **GitHub**: https://github.com/Student1shruti
+- **Developer**: Divyanshi Singh Bhadauriya
+- **Email**: singhbhadauriyadivyanshi@gmail.com
+- **GitHub**: https://github.com/Divyanshi01615
 
 ## 🙏 Acknowledgments
 
@@ -224,4 +224,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by Shruti Gupta
+Made by Divyanshi Singh Bhadauriya
