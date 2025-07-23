@@ -57,7 +57,7 @@ A modern, full-featured blogging platform built with React, Node.js, Express, an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Student1shruti/bloghub.git
+git clone https://github.com/Divyanshi01615/BloggingPlatform
 cd bloghub
 ```
 
